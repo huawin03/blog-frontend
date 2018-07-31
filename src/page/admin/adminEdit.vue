@@ -136,7 +136,7 @@ export default {
       imgName: '',
       visible: false,
       uploadList: [],
-      baseUrl: 'http://127.0.0.1:7000/uploads/',
+      baseUrl: '//www.lucky94.com:7000/uploads/',
       toolbars: {
         bold: true, // 粗体
         italic: true, // 斜体
