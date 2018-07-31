@@ -2,7 +2,7 @@
     <div class="head">
         <div class="wrap">
             <div class="site-branding-text">
-                <p class="site-title"><a href="/" rel="home">FantasyGao's BLOG</a></p>
+                <p class="site-title"><a href="/" rel="home">朱建苹-BLOG</a></p>
                 <p class="site-description">Trying to find the truth</p>
             </div>
 	    </div>

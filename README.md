@@ -1,10 +1,3 @@
-
-## 前后端分离实践----blog's frontend
-### 后端地址---- [blog's backend](https://github.com/FantasyGao/blog-backend.git)
-
-[在线地址](http://www.fantasygao.me)
-[管理员地址](http://www.fantasygao.me/admin/index)  用户名：admin  密码： 123456
-
 #### 简介:通过vue.js框架与[koa2框架](https://github.com/FantasyGao/koa2.git)分别搭建前后端，利用ngnix端口分发部署实现代码全分离，开发全分离。
 
 #### nginx文件配置内容
@@ -32,13 +25,7 @@
 node.js 7.6+
 mognodb 3.0+
 ```
-##### 2. 克隆到本地，安装依赖，运行
-```
-> git clone https://github.com/FantasyGao/blog-frontend.git
-> cd blog-frontend
-> npm install 
-> npm start
-```
+
 ### 简要概述
 
   #### 1. axios模块实现http请求拦截器，配合完成权限控制
