@@ -10,7 +10,7 @@ Vue.use(iView)
 import * as types from '../vuex/type.js'
 
 const http = axios.create({
-  baseURL: '//www.lucky94.com:7002/api',
+  baseURL: 'http://localhost:3000/api',
   timeout: 8000,
   data: {},
   headers: {
